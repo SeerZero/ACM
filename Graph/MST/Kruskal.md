@@ -1,4 +1,4 @@
-									Kruskal
+							Kruskal
 describe:sortEdge->if(F!=F)F=...;
 
 type		  time		store 				 interface					   use
